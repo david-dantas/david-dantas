@@ -5,12 +5,15 @@
 ### I live in Brazil ![Brazil](https://i.imgur.com/NPQqtMp.png)
 ### Currently I'm studying at Trybe School ![Trybe](https://i.imgur.com/vLTNax6.png)
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbdb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)](https://www.instagram.com/davidpk21/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit)](https://www.facebook.com/davidd2101)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/david2101/)
 
+
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-dantas&show_icons=true&theme=transparent)
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
