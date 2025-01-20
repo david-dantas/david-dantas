@@ -1,7 +1,7 @@
 # Hello there!
 ![Obi-Wan](https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 # I'm David! ![Yoshi](https://i.imgur.com/VkraAV9.png)
-### I'm a programming student looking for my first job or internship
+### I'm a Back-end developer looking for my first job or internship
 ### I live in Brazil ![Brazil](https://i.imgur.com/NPQqtMp.png)
 ### Currently I'm studying at Trybe School ![Trybe](https://i.imgur.com/vLTNax6.png)
 
