@@ -3,7 +3,6 @@
 # I'm David! ![Yoshi](https://i.imgur.com/VkraAV9.png)
 ### I'm a Back-end developer looking for my first job or internship
 ### I live in Brazil ![Brazil](https://i.imgur.com/NPQqtMp.png)
-### Currently I'm studying at Trybe School ![Trybe](https://i.imgur.com/vLTNax6.png)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbdb/)
